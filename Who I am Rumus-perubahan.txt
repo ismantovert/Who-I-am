@@ -1,4 +1,5 @@
 RUMUS PERUBAHAN
+Silahkan diimplementasikan
 C=D x V x Fs - R
 	C ->change
 	D ->ketidakpuasan
